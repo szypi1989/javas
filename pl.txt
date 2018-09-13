@@ -1,0 +1,4 @@
+Zawisza;Bydgoszcz;Gdańska;243;20050102;Felicjan;Wielki;Tarasiewicz;Ryszard;45000;52333333
+Widzew;Bydgoszcz;Gdańska;243;20050102;Felicjan;Wielki;Tarasiewicz;Ryszard;45000;52333333
+Zawisza;Bydgoszcz;Gdańska;243;20050102;Felicjan;Wielki;Tarasiewicz;Ryszard;45000;52333333
+Widzew;Bydgoszcz;Gdańska;243;20050102;Felicjan;Wielki;Tarasiewicz;Ryszard;45000;52333333
